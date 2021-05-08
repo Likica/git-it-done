@@ -1,7 +1,20 @@
 # Git-It-Done
   ### By Likica * [Email me](mailto:fahrija_wyroski@live.com) * 
   * [Deployed Appplication](https://likica.github.io/git-it-done/)
- 
+ <p align="center">
+    <img src="https://img.shields.io/github/repo-size/likica/git-it-done" />
+    <img src="https://img.shields.io/github/issues/likica/git-it-done" />
+    <img src="https://img.shields.io/github/last-commit/likica/git-it-done" >
+    </a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML-yellow" />
+<img src="https://img.shields.io/badge/-CSS-brown" />
+<img src="https://img.shields.io/badge/-node.js-red" />
+    <img src="https://img.shields.io/badge/Javascript-blue" />
+    <img src="https://img.shields.io/badge/-json-pink" />
+    <img src="https://img.shields.io/badge/jQuery-purple"  />
+</p>
   ## Table of contents
   * [Description](#Description)
   * [Installation Instructions](#installation-Instructions)
@@ -16,32 +29,39 @@
 
   ## User Story
   ##### [Back to Table of Contents](#Table-of-Contents)
-    - Users can enter a GitHub username and see a list of all repos from that account.
-    - Repos with no open issues will display a checkmark.
-    - Repos with open issues will display an X with the number of issues or pull requests.
-    - Users can click on a repository name, which will route them to a new page.
-    - The second HTML page will display a list of all open issues for that repository.
-    - Users can click on a language button to see a list of featured repos that use that language.- Examples: HTML, CSS, JavaScript.  
-    - The list of featured repos will look exactly like the list of user repos.
+  Each repository links to its own new page with repository details openning in new page.
+Users can enter a GitHub username and see a list of all repos from that account. Repos with no open issues will display a checkmark. Repos with open issues will display an X with the number of issues or pull requests. Users can click on a repository name, which will route them to a new page. The second HTML page will display a list of all open issues for that repository. 
+Users can click on a language button to see a list of featured repos that use that language. 
+*  Examples: HTML, CSS, JavaScript. The list of featured repos will look exactly like the list of user repos.
 
   ## Installation Instructions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  Use link on web to open the webpage, fill out the user search form and use links provided in results to see details on each repository in the results
+
+  - Use link to open the webpage [Click Here!](https://likica.github.io/git-it-done/)
+  - Fill out the user search form and 
+  - Use links provided in results to see details on each repository in the results
+  - Click repository for linking to issues page for the desired repository
+  - Navigate to repository and/or return to main page for new search
 
   ## Usage Instructions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  Step 1: Open web link
+  Step 1: Open web page [Click here!](https://likica.github.io/git-it-done/)
+<p align="center" width="100%">
+    <img src="assets/images/gititdone-LP.png" width="65%"/>
+</p>
   STEP 2: Fill out user form and click search button
-  Step 3: Navigate to desired repository for details by clickin gon icon (link) provided in search results on the right
+  <p align="center" width="100%">
+    <img src="assets/images/user-form.png" width="50%"/>
+</p>
+  Step 3: Navigate to desired repository for details by clickin gon icon (link) provided in search results on the right of the webpage
+  <p align="center" width="100%">
+    <img src="assets/images/search-results.png" width="40%"/>
+    <img src="assets/images/search-result-issues-list.png" width="40%"/>
+</p>
 
   ## Contributing
   ##### [Back to Table of Contents](#Table-of-Contents)
   Contribution open per MIT license
-
-  ## Tests
-  #### [Back to Table of Contents](#Table-of-Contents)
-  1. 
-  2. 
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
