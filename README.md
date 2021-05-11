@@ -10,7 +10,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML-yellow" />
 <img src="https://img.shields.io/badge/-CSS-brown" />
-<img src="https://img.shields.io/badge/-node.js-red" />
     <img src="https://img.shields.io/badge/Javascript-blue" />
     <img src="https://img.shields.io/badge/-json-pink" />
     <img src="https://img.shields.io/badge/jQuery-purple"  />
