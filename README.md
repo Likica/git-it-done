@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/-json-pink" />
     <img src="https://img.shields.io/badge/jQuery-purple"  />
 </p>
+
   ## Table of contents
   * [Description](#Description)
   * [Installation Instructions](#installation-Instructions)
@@ -25,7 +26,7 @@
  
   # Description
   ##### [Back to Table of Contents](#Table-of-Contents)
-  This app allows user to search for specific repositories on GitHub, and chek into each repository's issues. When run, this app will provide search results with listed repositories on the right side of the landing page. Each repository links to its own new page with repository details openning in new page. 
+  This app allows user to search for specific repositories on GitHub, and check into each repository's issues. When run, this app will provide search results with listed repositories on the right side of the landing page. Each repository links to its own new page with repository details openning in new page. 
 
   ## User Story
   ##### [Back to Table of Contents](#Table-of-Contents)
