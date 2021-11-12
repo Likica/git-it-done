@@ -1,5 +1,5 @@
 # Git-It-Done
-  ### By Likica * [Email me](mailto:fahrija_wyroski@live.com) * 
+  ### By Likica * [Email me](mailto:codefin9@hotmail.com) * 
   * [Deployed Appplication](https://likica.github.io/git-it-done/)
  <p align="center">
     <img src="https://img.shields.io/github/repo-size/likica/git-it-done" />
@@ -65,7 +65,7 @@ Users can click on a language button to see a list of featured repos that use th
 
   ## Questions
   ##### [Back to Table of Contents](#Table-of-Contents)
-  * If you have any questions, please contact me at fahrija_wyroski@live.com
+  * If you have any questions, please [Email me](mailto:codefin9@hotmail.com)
 
   ## License 
   * License Type: MIT
